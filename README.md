@@ -1,11 +1,5 @@
-# github-contribution-art
+# data-pipeline-toolkit
 
-A natural-looking GitHub contribution graph for Feb–Sep 2026, made of backdated commits.
+Small helpers for building and checking data pipelines: validation, schema checks, and lightweight ETL utilities.
 
-- Weekdays only (Monday–Friday), weekends off
-- 5 days a week with 14 weekdays randomly skipped, like real life
-- Three shades: light (4–6 commits), medium (18–22), dark (30–35)
-- 152 active days, 1,681 commits total
-- 9 days with real contributions were left untouched
-
-This replaced an earlier pixel-portrait experiment in the same repo.
+Work in progress, built out a little at a time.
